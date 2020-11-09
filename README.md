@@ -1,1 +1,1 @@
-The website for [Spencers Highland](http://spencershighland.com). <http://spencershighland.com>
+The website for [Spencers Highland](https://spencershighland.com). <https://spencershighland.com>
