@@ -1,1 +1,1 @@
-# spencershighland.github.io
+# spencershighland.com
